@@ -33,4 +33,5 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 
 Divirta-se explorando e treinando sua lógica de programação com algoritmos de ordenação em Java!
 
-<div><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="200px"></div>
+#Linguagens Utilizadas
+<div><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="150px"></div>
